@@ -1,0 +1,9 @@
+{
+  "main":"./parser.js",
+  "devDependencies": {
+    "mocha": "latest"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
